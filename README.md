@@ -1,12 +1,12 @@
-Snake Game
+#Snake Game
 This is a simple Snake Game developed using C# and .NET Framework.
+[Table of Contents](https://linktableofcontets)
+[About the Game](https://linktodocumentation)
+[Features](https://linktodocumentation)
+[How to Play](https://linktodocumentation)
+[Contributing](https://linktodocumentation)
+[About the Game](https://linktodocumentation)
 
-Table of Contents
-About the Game
-Features
-How to Play
-Contributing
-About the Game
 Snake Game is a classic arcade game where the player controls a snake that grows in length by eating food. The objective is to make the snake as long as possible without hitting the walls or its own tail.
 
 Features
